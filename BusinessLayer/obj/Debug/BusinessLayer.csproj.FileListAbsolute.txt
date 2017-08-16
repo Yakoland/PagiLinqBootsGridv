@@ -1,0 +1,10 @@
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\BusinessLayer\obj\Debug\BusinessLayer.pdb

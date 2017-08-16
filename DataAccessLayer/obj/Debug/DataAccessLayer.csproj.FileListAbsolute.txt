@@ -1,0 +1,8 @@
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
