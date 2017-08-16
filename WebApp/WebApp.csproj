@@ -66,7 +66,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Default.aspx" />
     <Content Include="packages.config" />
+    <Content Include="Recursos\css\bootstrap-theme.css.map" />
+    <Content Include="Recursos\css\bootstrap-theme.min.css.map" />
+    <Content Include="Recursos\css\bootstrap.css.map" />
+    <Content Include="Recursos\css\bootstrap.min.css.map" />
+    <Content Include="Recursos\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Recursos\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Recursos\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Recursos\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,14 +84,36 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Recursos\css\bootstrap-theme.css" />
+    <Content Include="Recursos\css\bootstrap-theme.min.css" />
+    <Content Include="Recursos\css\bootstrap.css" />
+    <Content Include="Recursos\css\bootstrap.min.css" />
+    <Content Include="Recursos\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Recursos\js\bootstrap.js" />
+    <Content Include="Recursos\js\bootstrap.min.js" />
+    <Content Include="Recursos\js\npm.js" />
+    <Content Include="Recursos\style\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Recursos\css\" />
-    <Folder Include="Recursos\js\" />
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{3bdf8c93-440c-452d-ad46-bcfbececef86}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{09a239ea-082d-44cb-abb9-9dc7996e5447}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

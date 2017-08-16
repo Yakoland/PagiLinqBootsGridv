@@ -18,3 +18,9 @@ C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\Microsoft.CodeDom.Provid
 C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\obj\Debug\WebApp.dll
 C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\obj\Debug\WebApp.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\BusinessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\DataAccessLayer.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\EntityFramework.dll
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\BusinessLayer.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\DataAccessLayer.pdb
+C:\asp\pruebas\paginacion\PagiLinqBootsGridv\WebApp\bin\EntityFramework.xml
